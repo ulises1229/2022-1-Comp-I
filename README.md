@@ -1,4 +1,7 @@
-# Licenciatura en Tecnología - Computación I
+# Computación I
+
+# Licenciatura en Tecnología
+
 ## Semestre 2022-1
 
 ![alt text](figs/bg.png)
