@@ -9,6 +9,9 @@
 ## Profesor
 Dr. Ulises Olivares Pinto
 
+# Invitado
+Lic. Walter André Rosales Reyes
+
 
 ## Objetivo
 Dotar al estudiante de habilidades básicas de programación y capacidad de abstracción lógica para la solución de problemas utilizando el lenguaje de programación C++ y Python.   
