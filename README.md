@@ -9,8 +9,8 @@
 ## Profesor
 Dr. Ulises Olivares Pinto
 
-# Invitado
-Lic. Walter André Rosales Reyes
+### Invitado
+> Lic. Walter André Rosales Reyes
 
 
 ## Objetivo
