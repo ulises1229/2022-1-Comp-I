@@ -10,11 +10,19 @@
 Dr. Ulises Olivares Pinto
 
 ### Invitado
-> Lic. Walter André Rosales Reyes
+ Lic. Walter André Rosales Reyes
 
 
 ## Objetivo
-Dotar al estudiante de habilidades básicas de programación y capacidad de abstracción lógica para la solución de problemas utilizando el lenguaje de programación C++ y Python.   
+Dotar al estudiante de habilidades básicas de programación y capacidad de abstracción lógica para la solución de problemas utilizando el lenguaje de programación C++ y Python.
+
+## Enlaces de interés
+
++ [Git](https://git-scm.com/downloads)
++ [GitHub](https://desktop.github.com/)
++ [Clion](https://www.jetbrains.com/clion/)
++ [Google Colab](https://colab.research.google.com/)
++ [Pycharm](https://www.jetbrains.com/pycharm/)
 
 ## Código en Clase
 
