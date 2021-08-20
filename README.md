@@ -9,7 +9,7 @@
 ## Profesor
 Dr. Ulises Olivares Pinto
 
-### Invitado
+####  Profesor Invitado
  Lic. Walter André Rosales Reyes
 
 
