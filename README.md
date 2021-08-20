@@ -26,6 +26,10 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 ## Código en Clase
 
+### Github
+|Tema|Contenido|Código Fuente| Recursos |
+|--|--|--|--|
+|1. Github | Introducción  |  <ul> <li>  </li> </ul>| <ul> <li>[Presentación]() </li></ul> |
 ### C++
 
 |Tema|Contenido|Código Fuente|
@@ -72,4 +76,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 
 
-#### Última modificación: 18 de agosto de 2021
+#### Última modificación: 20 de agosto de 2021
