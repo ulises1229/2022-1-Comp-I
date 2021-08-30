@@ -12,7 +12,7 @@ procedure numeroPar(n):
 		resultado = "impar"
 	return resultado
 
-// Complejidad 
+// Complejidad del primer ejercicio
 t7 + 2 *t8 + t9 + t10 + t14  
 
 t = 1 ms
