@@ -32,7 +32,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |1. GitHub |   Introducción, comandos básicos | <ul> <li>[Presentación](GitHub/GitGitHubPres.pdf) </li> <li> [Comandos básicos de git](https://git-scm.com/docs)</li> <li>[Conexión por SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)</li> <li>[Guía Markdown](https://www.markdownguide.org/basic-syntax/)</li> <li> [Guía comandos BASH (Windows)](https://commandwindows.com/command3.htm)</li></ul> |
 
 ### Pseudocódigo
-|Tema|Contenido| Recursos |
+|Tema|Contenido| Código |
 |--|--|--|
 |1. Pseudocódigo |   Introducción, comandos básicos, operadores ralacionales, lógicos | <ul> <li>[Mayor de una lista, ](code/pseudocode/program1.cpp) </li> <li> [Número par, mayor de tres números, pertenencia](code/pseudocode/program2.cpp)</li> </ul> |
 
@@ -82,4 +82,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 
 
-#### Última modificación: 20 de agosto de 2021
+#### Última modificación: 30 de agosto de 2021
