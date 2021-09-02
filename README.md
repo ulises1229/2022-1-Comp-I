@@ -34,7 +34,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 ### Pseudocódigo
 |Tema|Contenido| Código |
 |--|--|--|
-|1. Pseudocódigo |   Introducción, comandos básicos, operadores ralacionales, lógicos | <ul> <li>[Mayor de una lista, ](code/pseudocode/program1.cpp) </li> <li> [Número par, mayor de tres números, pertenencia](code/pseudocode/program2.cpp)</li> </ul> |
+|1. Pseudocódigo |   Introducción, comandos básicos, operadores ralacionales, lógicos | <ul> <li>[Mayor de una lista, ](code/pseudocode/program1.cpp) </li> <li> [Número par, mayor de tres números, pertenencia](code/pseudocode/program2.cpp)</li> <li> [Serie de Fibonacci](code/pseudocode/Fibonacci.cpp)</li> </ul> |
 
 ### C++
 
