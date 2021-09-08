@@ -3,7 +3,7 @@
 // 01 Sept, 2021
 
 // Algoritmo 1: Calcular la serie de Fibonacci hasta n = 100
-procedure calculteFibonacci(n): n = 100
+procedure calculteFibonacci(n):
 	//Input: n número de iteraciones
 	//Output: Array
 	fib[n]	// Definición de un arreglo
