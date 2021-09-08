@@ -40,7 +40,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 |Tema|Contenido|Código Fuente|
 |--|--|--|
-|1. Variables| Evaluación de polinomio, operadores  |<ul> <li>  </li> </ul>|
+|1. Variables y operadores| Evaluación de polinomio, operadores  |<ul> [Variables y operadores aritméticos](code/C++/arithmetic_operators.cpp) <li>  </li> </ul>|
 |2. Condicionales| If ... else, flujos de entrada,  |<ul> <li>  </li> </ul>|
 |3. Arreglos|Arreglos unidimensionale, paso de parámetros por referencia, funciones|<ul> <li>  </li> </ul>|
 |4. Matrices|Arreglos bidimensionales (Matrices), funciones, traza de una matriz| <ul> <li>  </li> </ul>|
@@ -82,4 +82,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 
 
-#### Última modificación: 01 de septiembre de 2021
+#### Última modificación: 08 de septiembre de 2021
