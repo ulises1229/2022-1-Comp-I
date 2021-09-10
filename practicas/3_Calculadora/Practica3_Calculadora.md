@@ -129,10 +129,12 @@ $ ./ Calculadora
 
 Este programa hace operaciones basicas entre dos numeros.
 Primer numero: 5
-Operación: +
+Operacion: +
 Segundo numero: 8
 
 Resultado:
 5 + 8 = 13
 
 ```
+
+**¡¡¡Recuerda no poner acentos en tus impresiones a consola!!!**
