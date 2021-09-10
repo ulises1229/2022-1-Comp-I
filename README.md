@@ -59,11 +59,11 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 # Prácticas
 
-|Práctica|Temas|Recursos|Fecha|
+|Práctica|Temas|Recursos|Fecha de entrega (antes de las 21:00 hrs)|
 |--|--|--|--|
 |1.Repository|<ol><li>Git</li><li>GitHub</li><li>MarkDown</li></ol>|<ul><li></li><li></li> <li> </li></ul>|
 |2.Complejidad|<ol><li>Pseudocódigo</li><li>Complejidad computacional</li></ol>|<ul><li></li><li></li> </ul>||
-|3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li></li> </ul>||
+|3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li></ul>|17/09/2021|
 |4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li></li> </ul>||
 |5.GaussJordan|<ol><li>Matrices</li><li>Templates</li><li>Funciones (paso de argumentos)</li></ol>|<ul><li></li> </ul>||
 |6.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li></li></ul>||
@@ -80,4 +80,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 
 
-#### Última modificación: 08 de septiembre de 2021
+#### Última modificación: 10 de septiembre de 2021
