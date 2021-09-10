@@ -30,4 +30,5 @@ En esta carpeta `Calculadora` es donde se deberá de encontrar tu archivo de C++
 
 * [Variables en C++ (en inglés)](http://www.cplusplus.com/doc/tutorial/variables/)
 * [Operadores en C++ (en inglés)](http://www.cplusplus.com/doc/tutorial/operators/)
+* [Precedencia de operadores (en inglés)](https://en.cppreference.com/w/cpp/language/operator_precedence)
 * [Estructuras de control en C++ (en inglés)](http://www.cplusplus.com/doc/oldtutorial/control/)
