@@ -40,8 +40,8 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 |Tema|Contenido|Código Fuente|
 |--|--|--|
-|1. Variables y operadores|<ol> <li> Operadores aritméticos</li> <li>Flujos de salida</li> <li>Flujos de entrada</li> <li>Evaluación de polinomios</li> </ol> |<ul>  <li> [Variables y operadores aritméticos](code/C++/arithmetic_operators.cpp) </li> </ul>|
-|2. Condicionales| If ... else, flujos de entrada,  |<ul> <li>  </li> </ul>|
+|1. Variables y operadores|<ol> <li> Operadores aritméticos</li> <li>Flujos de salida</li> <li>Evaluación de polinomios</li> </ol> |<ul>  <li> [Variables y operadores aritméticos](code/C++/arithmetic_operators.cpp) </li> </ul>|
+|2. Condicionales| <ol> <li>Operadores condicionales If ... else</li> <li>Flujos de entrada </li>  </ol>If ... else, flujos de entrada,  |<ul> <li>  </li> </ul>|
 |3. Arreglos|Arreglos unidimensionale, paso de parámetros por referencia, funciones|<ul> <li>  </li> </ul>|
 |4. Matrices|Arreglos bidimensionales (Matrices), funciones, traza de una matriz| <ul> <li>  </li> </ul>|
 |5. Funciones|Funciones, suma de valores, paso de parámetros por valor|<ul> <li>  </li> </ul>|
