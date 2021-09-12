@@ -1,6 +1,6 @@
 # Calificaciones: 37542b
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|11-09-2021 21:06:54|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|17-09-2021 21:00:00|5.0|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|11-09-2021 22:13:38|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|17-09-2021 21:00:00|5.0|
 
-Última actualización: 11-09-2021 21:06
+Última actualización: 11-09-2021 22:13
