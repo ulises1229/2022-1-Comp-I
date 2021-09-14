@@ -1,6 +1,6 @@
 # Calificaciones: 37542b
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|14-09-2021 14:02:48|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|17-09-2021 21:00:00|5.0|
+|Calculadora|✔️|✔️|✔️|❌|✔️|✔️|0fa0c65966bbedaec0226f33d729977cfbd3d5de|14-09-2021 16:01:18|14-09-2021 16:57:43|No implementaste operaciones con números flotantes|17-09-2021 21:00:00|10.0|
 
-Última actualización: 14-09-2021 14:02
+Última actualización: 14-09-2021 16:58
