@@ -1,6 +1,6 @@
 # Calificaciones: fbfd46
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|13-09-2021 22:57:25|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|17-09-2021 21:00:00|5.0|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|14-09-2021 02:02:07|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|17-09-2021 21:00:00|5.0|
 
-Última actualización: 13-09-2021 22:57
+Última actualización: 14-09-2021 02:02
