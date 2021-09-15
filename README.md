@@ -59,6 +59,8 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 # Prácticas
 
+**Revisiones:** Puedes revisar los resultados y las calificaciones de tus prácticas en [el siguiente enlace](https://github.com/ulises1229/2022-1-Comp-I/tree/Grades).
+
 |Práctica|Temas|Recursos|Fecha de entrega (antes de las 21:00 hrs)|
 |--|--|--|--|
 |1.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li></ul>|17/09/2021|
@@ -77,5 +79,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 
 
-
-#### Última modificación: 10 de septiembre de 2021
+#### Última modificación: 15 de septiembre de 2021
