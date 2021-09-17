@@ -40,8 +40,8 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 |Tema|Contenido|Código Fuente|
 |--|--|--|
-|1. Variables y operadores| Evaluación de polinomio, operadores aritméticos, flujos de salida |<ul>  <li> [Variables y operadores aritméticos](code/C++/arithmetic_operators.cpp) </li> </ul>|
-|2. Condicionales| If ... else, flujos de entrada,  |<ul> <li>  </li> </ul>|
+|1. Variables y operadores aritméticos|<ol> <li> Operadores aritméticos</li> <li>Flujos de salida</li> <li>Evaluación de polinomios</li> </ol> |<ul>  <li> [Variables y operadores aritméticos](code/C++/arithmetic_operators.cpp) </li> </ul>|
+|2. Operadores condicionales| <ol> <li>Operadores condicionales If ... else</li> <li>Flujos de entrada </li> <li>Ciclos for</li>  </ol>| <ul> <li> [Flujos de entrada (suma)](code/C++/sum_entrada.cpp) </li> <li>[Evaluación de polinomio (ciclo for)](code/C++/polynomial.cpp) </li> <li>[Operador condicional](code/C++/conditional.cpp) </li></ul>|
 |3. Arreglos|Arreglos unidimensionale, paso de parámetros por referencia, funciones|<ul> <li>  </li> </ul>|
 |4. Matrices|Arreglos bidimensionales (Matrices), funciones, traza de una matriz| <ul> <li>  </li> </ul>|
 |5. Funciones|Funciones, suma de valores, paso de parámetros por valor|<ul> <li>  </li> </ul>|
@@ -59,27 +59,24 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 # Prácticas
 
+**Revisiones:** Puedes revisar los resultados y las calificaciones de tus prácticas en [el siguiente enlace](https://github.com/ulises1229/2022-1-Comp-I/tree/Grades).
+
 |Práctica|Temas|Recursos|Fecha de entrega (antes de las 21:00 hrs)|
 |--|--|--|--|
-|1.Repository|<ol><li>Git</li><li>GitHub</li><li>MarkDown</li></ol>|<ul><li></li><li></li> <li> </li></ul>|
-|2.Complejidad|<ol><li>Pseudocódigo</li><li>Complejidad computacional</li></ol>|<ul><li></li><li></li> </ul>||
-|3.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li></ul>|17/09/2021|
-|4.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li></li> </ul>||
-|5.GaussJordan|<ol><li>Matrices</li><li>Templates</li><li>Funciones (paso de argumentos)</li></ol>|<ul><li></li> </ul>||
-|6.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li></li></ul>||
-|7.Carga Eléctrica|<ol><li>Programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li></li><li></li><li></li></ul>||
-|8.Punto Isoeléctrico|<ol><li>Programación orientada a objetos</li><li>Vectores en C++</li></ol>|<ul><li></li><li></li><li></li></ul>||
-|9.Almacén|<ol><li>Apuntadores en C++</li></ol>|<ul><li></li><li></li></ul>||
-|10.Tienda|<ol><li>Estructuras de datos en C++</li></ol>|<ul><li></li><li></li></ul>||
-|11.GaussJordanP|<ol><li>Lenguaje Python</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li></li></ul>||
-|12.Comparando|<ol><li>Lenguaje C++</li><li>Lenguaje Python</li></ol>|<ul><li></li></ul>||
-|13.Auto|<ol><li>Programación orientada a objetos en Python</li></ol>|<ul><li></li><li></li></ul>||
+|1.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li></ul>|17/09/2021|
+|2.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li></ul>|24/09/2021|
+|3.GaussJordan|<ol><li>Matrices</li><li>Templates</li><li>Funciones (paso de argumentos)</li></ol>|<ul><li></li> </ul>||
+|4.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li></li></ul>||
+|5.Carga Eléctrica|<ol><li>Programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li></li><li></li><li></li></ul>||
+|6.Punto Isoeléctrico|<ol><li>Programación orientada a objetos</li><li>Vectores en C++</li></ol>|<ul><li></li><li></li><li></li></ul>||
+|7.Almacén|<ol><li>Apuntadores en C++</li></ol>|<ul><li></li><li></li></ul>||
+|8.Tienda|<ol><li>Estructuras de datos en C++</li></ol>|<ul><li></li><li></li></ul>||
+|9.GaussJordanP|<ol><li>Lenguaje Python</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li></li></ul>||
+|10.Comparando|<ol><li>Lenguaje C++</li><li>Lenguaje Python</li></ol>|<ul><li></li></ul>||
+|11.Auto|<ol><li>Programación orientada a objetos en Python</li></ol>|<ul><li></li><li></li></ul>||
 
 
 
 
-## Calificaciones
 
-
-
-#### Última modificación: 10 de septiembre de 2021
+#### Última modificación: 16 de septiembre de 2021
