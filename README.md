@@ -64,7 +64,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |Práctica|Temas|Recursos|Fecha de entrega (antes de las 21:00 hrs)|
 |--|--|--|--|
 |1.Calculadora|<ol><li>Lenguaje C++</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/3_Calculadora)</li></ul>|17/09/2021|
-|2.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li></li> </ul>||
+|2.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li></ul>|24/09/2021|
 |3.GaussJordan|<ol><li>Matrices</li><li>Templates</li><li>Funciones (paso de argumentos)</li></ol>|<ul><li></li> </ul>||
 |4.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li></li></ul>||
 |5.Carga Eléctrica|<ol><li>Programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li></li><li></li><li></li></ul>||
@@ -79,4 +79,5 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 
 
-#### Última modificación: 15 de septiembre de 2021
+
+#### Última modificación: 16 de septiembre de 2021
