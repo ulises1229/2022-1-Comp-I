@@ -1,6 +1,6 @@
 # Calificaciones: ad39dd
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|17-09-2021 11:07:58|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|17-09-2021 21:00:00|5.0|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|17-09-2021 13:14:12|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
 
-Última actualización: 17-09-2021 11:07
+Última actualización: 17-09-2021 13:14
