@@ -1,7 +1,7 @@
 # Calificaciones: 0ae593
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|18-09-2021 08:15:10|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|18-09-2021 08:15:09|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|17-09-2021 21:00:00|5.0|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|18-09-2021 09:30:49|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|18-09-2021 09:30:47|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|17-09-2021 21:00:00|5.0|
 
-Última actualización: 18-09-2021 08:15
+Última actualización: 18-09-2021 09:30
