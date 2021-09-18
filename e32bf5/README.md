@@ -3,6 +3,6 @@
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|✔️|❌|❌|❌|❌|❌|166bac1fc757cf6e32837e1c450084165be3d380|17-09-2021 14:47:03|17-09-2021 15:24:38|Tu código no compila|17-09-2021 21:00:00|5.0|
 |Calculadora|✔️|❌|❌|❌|❌|❌|0272a877361175878a23930072a2b8712b48f2fa|17-09-2021 20:54:36|17-09-2021 21:29:40|Tu código no compila|17-09-2021 21:00:00|5.0|
-|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|17-09-2021 21:29:41|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|17-09-2021 23:09:41|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
 
-Última actualización: 17-09-2021 21:29
+Última actualización: 17-09-2021 23:09
