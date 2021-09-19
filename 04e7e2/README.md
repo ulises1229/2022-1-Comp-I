@@ -2,6 +2,6 @@
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|✔️|✔️|❌|❌|❌|✔️|8f3759d3941afe92f7b5bf62ba6440d44ef454cf|14-10-2020 23:12:07|15-09-2021 12:49:44|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división|17-09-2021 21:00:00|7.333333333333333|
-|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|19-09-2021 09:34:09|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|19-09-2021 11:13:22|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
 
-Última actualización: 19-09-2021 09:34
+Última actualización: 19-09-2021 11:13
