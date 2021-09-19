@@ -2,6 +2,6 @@
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|9d50b67cd4307724bf64af0ee1a522510742eb35|15-09-2021 10:18:20|15-09-2021 12:51:11|nan|17-09-2021 21:00:00|10.0|
-|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|19-09-2021 15:35:20|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|19-09-2021 17:14:20|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
 
-Última actualización: 19-09-2021 15:35
+Última actualización: 19-09-2021 17:14
