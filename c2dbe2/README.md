@@ -3,6 +3,6 @@
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|✔️|✔️|❌|❌|❌|✔️|a68d0c8188d75dea3c16d34382c741481a166e39|15-09-2021 00:15:26|15-09-2021 12:49:01|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división|17-09-2021 21:00:00|7.333333333333333|
 |Calculadora|✔️|✔️|❌|❌|❌|✔️|de431dd888196cac259e543f9022bf38c68b071f|18-09-2021 23:18:19|19-09-2021 01:21:35|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división|17-09-2021 21:00:00|6.833333333333333|
-|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|22-09-2021 14:26:54|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|22-09-2021 15:42:55|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
 
-Última actualización: 22-09-2021 14:26
+Última actualización: 22-09-2021 15:42
