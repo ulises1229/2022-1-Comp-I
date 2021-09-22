@@ -3,6 +3,6 @@
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|❌|e1e020f83517186b70cf01f0e772f50ecdfce1a5|17-09-2021 13:02:37|17-09-2021 13:11:45|No sale con código diferente de cero con división entre cero|17-09-2021 21:00:00|10.0|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|❌|76ad488f4e3d1a5a08306c9adb281b9199341cb4|21-09-2021 22:41:02|21-09-2021 23:20:28|No sale con código diferente de cero con división entre cero|17-09-2021 21:00:00|8.0|
-|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|22-09-2021 15:42:52|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|22-09-2021 17:23:54|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
 
-Última actualización: 22-09-2021 15:42
+Última actualización: 22-09-2021 17:23
