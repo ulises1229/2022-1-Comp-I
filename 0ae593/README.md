@@ -1,8 +1,8 @@
 # Calificaciones: 0ae593
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|28-09-2021 08:48:09|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|17-09-2021 21:00:00|5.0|
-|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|28-09-2021 08:48:10|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
-|GaussJordan|❌|❌|❌|❌|❌|❌|NA|NA|28-09-2021 08:48:10|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|01-10-2020 21:00:00|5.0|
+|Calculadora|❌|❌|❌|❌|❌|❌|NA|NA|28-09-2021 10:02:51|No se encontró el archivo en PracticasComputacionI/Calculadora/Calculadora.cpp|17-09-2021 21:00:00|5.0|
+|Arreglos|❌|❌|❌|❌|❌|❌|NA|NA|28-09-2021 10:02:51|No se encontró el archivo en PracticasComputacionI/Arreglos/Arreglos.cpp|24-09-2021 21:00:00|5.0|
+|GaussJordan|❌|❌|❌|❌|❌|❌|NA|NA|28-09-2021 10:02:52|No se encontró el archivo en PracticasComputacionI/GaussJordan/GaussJordan.cpp|01-10-2020 21:00:00|5.0|
 
-Última actualización: 28-09-2021 08:48
+Última actualización: 28-09-2021 10:02
