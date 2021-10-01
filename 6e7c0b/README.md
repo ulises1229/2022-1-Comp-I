@@ -1,10 +1,7 @@
 # Calificaciones: 6e7c0b
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|9c4274ec533aa3465376e53c844789828650d68d|29-09-2021 11:19:55|29-09-2021 13:59:46||01-10-2020 21:00:00|5.0|
-|GaussJordan|✔️|❌|❌|❌|❌|❌|fec89c110200e1b94c3dc1f143397c9e09855373|28-09-2021 15:11:36|28-09-2021 16:03:41|Tu código no compila|01-10-2020 21:00:00|5.0|
-|GaussJordan|✔️|✔️|❌|❌|❌|❌|5262a80fcb5bc849c03f9c55d693434e538f74fb|27-09-2021 20:35:08|27-09-2021 20:45:12|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|01-10-2020 21:00:00|5.0|
-|GaussJordan|✔️|✔️|❌|❌|❌|❌|b3aec3de2c365be2ce82a922317a59f9e11a96cd|27-09-2021 10:45:10|27-09-2021 11:43:53|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|01-10-2020 21:00:00|5.0|
+|GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|9c4274ec533aa3465376e53c844789828650d68d|29-09-2021 11:19:55|01-10-2021 14:59:22||01-10-2021 21:00:00|10.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|0f5d4f2a85dc6541b191ce1d9ccb93f3aaf3474b|24-09-2021 13:40:20|24-09-2021 14:32:42|nan|24-09-2021 21:00:00|10.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|15cd993f0ebea633dcb13a8a009b860654df9fdb|24-09-2021 12:28:16|24-09-2021 13:39:57|Tu código no compila|24-09-2021 21:00:00|5.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|913f8b50f747d9c694030ae47a884b0d529a26c0|23-09-2021 20:21:15|23-09-2021 20:30:56|Tu código no compila|24-09-2021 21:00:00|5.0|
@@ -15,4 +12,4 @@
 |Arreglos|✔️|❌|❌|❌|❌|❌|9764619187dbf6901be7594d2b3b25d333c456a5|21-09-2021 19:20:00|21-09-2021 19:30:11|Tu código no compila|24-09-2021 21:00:00|5.0|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|9d50b67cd4307724bf64af0ee1a522510742eb35|15-09-2021 10:18:20|15-09-2021 12:51:11|nan|17-09-2021 21:00:00|10.0|
 
-Última actualización: 29-09-2021 14:01
+Última actualización: 01-10-2021 15:00
