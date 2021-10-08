@@ -42,11 +42,11 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |--|--|--|
 |1. Variables y operadores aritméticos|<ol> <li> Operadores aritméticos</li> <li>Flujos de salida</li> <li>Evaluación de polinomios</li> </ol> |<ul>  <li> [Variables y operadores aritméticos](code/C++/arithmetic_operators.cpp) </li> </ul>|
 |2. Operadores condicionales| <ol> <li>Operadores condicionales If ... else</li> <li>Flujos de entrada </li> <li>Ciclos for</li>  </ol>| <ul> <li> [Flujos de entrada (suma)](code/C++/sum_entrada.cpp) </li> <li>[Evaluación de polinomio (ciclo for)](code/C++/polynomial.cpp) </li> <li>[Operador condicional](code/C++/conditional.cpp) </li></ul>|
-|3. Arreglos|Arreglos unidimensionale, paso de parámetros por referencia, funciones|<ul> <li>  </li> </ul>|
-|4. Matrices|Arreglos bidimensionales (Matrices), funciones, traza de una matriz| <ul> <li>  </li> </ul>|
-|5. Funciones|Funciones, suma de valores, paso de parámetros por valor|<ul> <li>  </li> </ul>|
-|6. Templates|Plantillas, funciones|<ul> <li>  </li> <li>  </li></ul>|
-|7. Sobrecarga de funciones|Sobrecarga, funciones |<ul> <li>  </li> </ul>|
+|3. Arreglos|Arreglos unidimensionale, paso de parámetros por referencia, funciones|<ul> <li>[Operaciones aritméticas con arreglos](code/C%2B%2B/arithmetic_functions.cpp)</li> </ul>|
+|4. Matrices|Arreglos bidimensionales (Matrices), funciones, traza de una matriz| <ul> <li> [Traza de una matriz](code/C%2B%2B/trazaMat.cpp) </li><li> [Eliminación de Gauss](code/C%2B%2B/Gauss.cpp) </li> </ul>|
+|5. Funciones|Funciones, suma de valores, paso de parámetros por valor|<ul> <li> [Suma Simple](code/C%2B%2B/funcionSum.cpp)</li> </ul>|
+|6. Templates|Plantillas, funciones|<ul> <li> [Plantillas de funciones](code/C%2B%2B/plantillas.cpp) </li></ul>|
+|7. Sobrecarga de funciones|Sobrecarga, funciones |<ul> <li> [Sobrecarga de funciones](code/C%2B%2B/sobrecarga_func.cpp) </li> </ul>|
 |8. Clases y objetos|Clases, objetos, atributos, métodos |<ul> <li>  </li> <li>  </li><li>  </li></ul>|
 |9. Vectores |POO, vectores |<ul> <li> </li> </ul>|
 
@@ -74,6 +74,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |9.GaussJordanP|<ol><li>Lenguaje Python</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li></li></ul>||
 |10.Comparando|<ol><li>Lenguaje C++</li><li>Lenguaje Python</li></ol>|<ul><li></li></ul>||
 |11.Auto|<ol><li>Programación orientada a objetos en Python</li></ol>|<ul><li></li><li></li></ul>||
+
 
 
 #### Última modificación: 08 de octubre de 2021
