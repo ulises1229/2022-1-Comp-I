@@ -76,4 +76,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |11.Auto|<ol><li>Programación orientada a objetos en Python</li></ol>|<ul><li></li><li></li></ul>||
 
 
-#### Última modificación: 24 de septiembre de 2021
+#### Última modificación: 08 de octubre de 2021
