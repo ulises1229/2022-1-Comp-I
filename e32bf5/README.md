@@ -1,7 +1,7 @@
 # Calificaciones: e32bf5
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|Puntos|❌|❌|❌|❌|❌|❌|NA|NA|10-10-2021 11:13:36|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|15-10-2021 21:00:00|5.0|
+|Puntos|❌|❌|❌|❌|❌|❌|NA|NA|10-10-2021 12:26:36|No se encontró el archivo en PracticasComputacionI/Puntos/Punto.cpp|15-10-2021 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|7c4a9deb27c13a8d1dd9eb36d295d8be8782b639|25-09-2021 23:35:58|25-09-2021 23:38:29|nan|24-09-2021 21:00:00|9.5|
 |Arreglos|✔️|❌|❌|❌|❌|❌|5e72ca11a6163cf036e30155913d63e82e39dd86|25-09-2021 20:53:36|25-09-2021 21:55:09|Tu código no compila|24-09-2021 21:00:00|5.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|5e9d16d605c21abf5566078770235a48b5de325c|24-09-2021 20:59:11|24-09-2021 21:52:12|Tu código no compila|24-09-2021 21:00:00|5.0|
@@ -12,4 +12,4 @@
 |Calculadora|✔️|❌|❌|❌|❌|❌|166bac1fc757cf6e32837e1c450084165be3d380|17-09-2021 14:47:03|17-09-2021 15:24:38|Tu código no compila|17-09-2021 21:00:00|5.0|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|e77f1c8187b8b9c7233d9b866a5a7344330b7ef3|01-10-2021 19:57:08|01-10-2021 20:12:12|nan|01-10-2021 21:00:00|10.0|
 
-Última actualización: 10-10-2021 11:13
+Última actualización: 10-10-2021 12:26
