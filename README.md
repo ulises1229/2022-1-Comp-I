@@ -77,4 +77,4 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 
 
 
-#### Última modificación: 08 de octubre de 2021
+#### Última modificación: 17 de octubre de 2021
