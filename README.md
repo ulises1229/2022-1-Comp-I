@@ -47,7 +47,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |5. Funciones|Funciones, suma de valores, paso de parámetros por valor|<ul> <li> [Suma Simple](code/C%2B%2B/funcionSum.cpp)</li> </ul>|
 |6. Templates|Plantillas, funciones|<ul> <li> [Plantillas de funciones](code/C%2B%2B/plantillas.cpp) </li></ul>|
 |7. Sobrecarga de funciones|Sobrecarga, funciones |<ul> <li> [Sobrecarga de funciones](code/C%2B%2B/sobrecarga_func.cpp) </li> </ul>|
-|8. Clases y objetos|Clases, objetos, atributos, métodos |<ul> <li>  </li> <li>  </li><li>  </li></ul>|
+|8. Clases y objetos|Clases, objetos, atributos, métodos |<ul> <li> [Área de Triángulo en un plano](code/C%2B%2B/POO/triangle_plane) </li> <li> [Área de Triángulo (estructuras)](code/C%2B%2B/POO/triangle_struct) </li><li>  </li></ul>|
 |9. Vectores |POO, vectores |<ul> <li> </li> </ul>|
 
 ### Python
