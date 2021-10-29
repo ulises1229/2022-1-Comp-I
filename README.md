@@ -68,7 +68,7 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |2.Arreglos|<ol><li>Arreglos</li><li>Funciones</li></ol>|<ul><li>[Práctica](practicas/4_Arreglos)</li></ul>|24/09/2021|
 |3.GaussJordan|<ol><li>Matrices</li><li>Templates</li><li>Funciones (paso de argumentos)</li></ol>|<ul><li>[Práctica](practicas/5_GaussJordan)</li></ul>|01/10/2021|
 |4.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li>[Práctica](practicas/6_Puntos)</li></ul>|15/10/2021|
-|5.Carga Eléctrica|<ol><li>Programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li></li><li></li><li></li></ul>||
+|5.Carga Eléctrica|<ol><li>Programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li>[Práctica](practicas/7_CargaElectrica)</li><li>[Presentación](practicas/7_CargaElectrica/CargaElectricaPresentacion.pdf)</li><li></li></ul>|05/11/2021|
 |6.Punto Isoeléctrico|<ol><li>Programación orientada a objetos</li><li>Vectores en C++</li></ol>|<ul><li></li><li></li><li></li></ul>||
 |7.Almacén|<ol><li>Apuntadores en C++</li></ol>|<ul><li></li><li></li></ul>||
 |8.Tienda|<ol><li>Estructuras de datos en C++</li></ol>|<ul><li></li><li></li></ul>||
@@ -77,5 +77,5 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |11.Auto|<ol><li>Programación orientada a objetos en Python</li></ol>|<ul><li></li><li></li></ul>||
 
 
+#### Última modificación: 29 de octubre de 2021
 
-#### Última modificación: 17 de octubre de 2021
