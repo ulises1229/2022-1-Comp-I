@@ -1,7 +1,7 @@
 # Calificaciones: dc2250
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|04-11-2021 19:48:33|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|08-11-2021 21:00:00|5.0|
+|CargaElectrica|❌|❌|❌|❌|❌|❌|NA|NA|05-11-2021 01:52:25|No se encontró el archivo en PracticasComputacionI/CargaElectrica/CargaElectrica.cpp|08-11-2021 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|c9b283d40f435f805ef97940f125e8000cf3a3e2|28-09-2021 21:12:07|28-09-2021 22:04:11|nan|24-09-2021 21:00:00|8.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|413ac53747cc1b188a12d5e513d6734badf2b86d|23-09-2021 23:06:57|23-09-2021 23:27:44|nan|24-09-2021 21:00:00|10.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|adc837d67c797b75868b7bd18d843f7a0d3ce176|22-09-2021 18:55:23|22-09-2021 19:34:03|Tu código no compila|24-09-2021 21:00:00|5.0|
@@ -14,4 +14,4 @@
 |Puntos|✔️|❌|❌|❌|❌|❌|cb635584523b296bfca70e8aabec2b5cdd525beb|14-10-2021 22:53:46|14-10-2021 23:31:43|Tu código no compila|15-10-2021 21:00:00|5.0|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|86ae772e23f78a331bcbde8f9dd7582e8d5d89ae|01-10-2021 14:53:49|01-10-2021 14:57:46|nan|01-10-2021 21:00:00|10.0|
 
-Última actualización: 04-11-2021 19:48
+Última actualización: 05-11-2021 01:52
