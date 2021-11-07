@@ -8,7 +8,8 @@
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|8a14832ef09f3a137f1979b6031cb32953069727|13-10-2021 01:26:12|13-10-2021 02:46:43|nan|15-10-2021 21:00:00|10.0|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|517f2ee80b05bf24a9a65b27b660b94021f6631c|09-10-2021 19:21:35|09-10-2021 19:57:35|nan|01-10-2021 21:00:00|6.5|
 |GaussJordan|✔️|✔️|❌|❌|✔️|❌|dd73259f5dfe0ffc5273fbc5f8d9a214e76103d1|08-10-2021 18:12:09|08-10-2021 19:41:19|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No intercambia las filas cuando un pivote es cero|01-10-2021 21:00:00|5.0|
+|CargaElectrica|✔️|✔️|✔️|✔️|✔️|❌|3f0d070d1a50230c99afd4d693b1d6f00009de62|07-11-2021 13:38:23|07-11-2021 14:40:55|No calcula correctamente la carga de la molécula|08-11-2021 21:00:00|10.0|
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|❌|e8fa51f84ee184ce92a99dd1e25841258b2c662a|06-11-2021 22:26:57|07-11-2021 02:30:27|No calcula correctamente la carga de la molécula|08-11-2021 21:00:00|10.0|
 |GaussJordan|✔️|✔️|❌|❌|✔️|❌|c12d249c461ab6a792dcdbdfda634a1f43727186|05-10-2021 20:52:50|05-10-2021 21:19:19|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No intercambia las filas cuando un pivote es cero|01-10-2021 21:00:00|5.833333333333333|
 
-Última actualización: 07-11-2021 02:31
+Última actualización: 07-11-2021 14:42
