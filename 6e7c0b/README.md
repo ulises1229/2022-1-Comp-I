@@ -16,9 +16,10 @@
 |Puntos|✔️|❌|❌|❌|❌|❌|499f5c56976b68d3581f388a0475ea095488394e|14-10-2021 23:00:50|14-10-2021 23:32:08|Tu código no compila|15-10-2021 21:00:00|5.0|
 |Puntos|✔️|❌|❌|❌|❌|❌|f2d2d04d561b1465ab044bb47a57c0cf44ca1c78|14-10-2021 17:54:02|14-10-2021 18:12:55|Tu código no compila|15-10-2021 21:00:00|5.0|
 |Puntos|✔️|❌|❌|❌|❌|❌|43eaee480255fd14c7cb7e52a768b10b7922e1bb|12-10-2021 23:35:19|12-10-2021 23:47:09|Tu código no compila|15-10-2021 21:00:00|5.0|
+|CargaElectrica|✔️|✔️|❌|❌|❌|❌|67ba0f42e34229ae533345371f2524ba83464a9f|09-11-2021 03:15:53|09-11-2021 03:20:17|No calcula correctamente la carga de la molécula-No calcula correctamente la carga de la molécula-No calcula correctamente la carga de la molécula-No calcula correctamente la carga de la molécula|08-11-2021 21:00:00|6.0|
 |CargaElectrica|✔️|❌|❌|❌|❌|❌|4bd91848e0f35cee3a0e2fae4b0b0e873317f874|08-11-2021 20:26:25|08-11-2021 21:13:27|Tu código no compila|08-11-2021 21:00:00|5.0|
 |CargaElectrica|✔️|❌|❌|❌|❌|❌|1c667d3af41988d204f60d76c8af4c20ee6760ae|07-11-2021 22:38:27|08-11-2021 02:53:10|Tu código no compila|08-11-2021 21:00:00|5.0|
 |CargaElectrica|✔️|❌|❌|❌|❌|❌|8919f065e7123876ddea3465b15917198ad08c82|07-11-2021 15:54:54|07-11-2021 20:45:08|Tu código no compila|08-11-2021 21:00:00|5.0|
 |CargaElectrica|✔️|❌|❌|❌|❌|❌|5239ab59ad5482d3d38cece099ca52dc11356e48|03-11-2021 11:26:49|03-11-2021 23:22:19|Tu código no compila|08-11-2021 21:00:00|5.0|
 
-Última actualización: 08-11-2021 21:13
+Última actualización: 09-11-2021 03:21
