@@ -47,8 +47,9 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |5. Funciones|Funciones, suma de valores, paso de parámetros por valor|<ul> <li> [Suma Simple](code/C%2B%2B/funcionSum.cpp)</li> </ul>|
 |6. Templates|Plantillas, funciones|<ul> <li> [Plantillas de funciones](code/C%2B%2B/plantillas.cpp) </li></ul>|
 |7. Sobrecarga de funciones|Sobrecarga, funciones |<ul> <li> [Sobrecarga de funciones](code/C%2B%2B/sobrecarga_func.cpp) </li> </ul>|
-|8. Clases y objetos|Clases, objetos, atributos, métodos |<ul> <li>  </li> <li>  </li><li>  </li></ul>|
+|8. Clases y objetos|Clases, objetos, atributos, métodos |<ul> <li> [Área de Triángulo en un plano](code/C%2B%2B/POO/triangle_plane) </li> <li> [Área de Triángulo (estructuras)](code/C%2B%2B/POO/triangle_struct) </li><li>  </li></ul>|
 |9. Vectores |POO, vectores |<ul> <li> </li> </ul>|
+|10. Apuntadores |Punteros, paso de parámetros por referencia |<ul> <li> </li> </ul>|
 
 ### Python
 
@@ -71,7 +72,6 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |6.Punto Isoeléctrico|<ol><li>Programación orientada a objetos</li><li>Vectores en C++</li></ol>|<ul><li></li><li></li><li></li></ul>||
 |8.GaussJordanP|<ol><li>Lenguaje Python</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/8_GaussJordanP)</li></ul>|19/11/2021|
 |11.Auto|<ol><li>Programación orientada a objetos en Python</li></ol>|<ul><li></li><li></li></ul>||
-
 
 
 #### Última modificación: 12 de noviembre de 2021
