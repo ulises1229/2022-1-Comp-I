@@ -70,12 +70,8 @@ Dotar al estudiante de habilidades básicas de programación y capacidad de abs
 |4.Puntos y tansformaciones|<ol><li>Clases en C++</li><li>Archivos _.h_</li></ol>|<ul><li>[Práctica](practicas/6_Puntos)</li></ul>|15/10/2021|
 |5.Carga Eléctrica|<ol><li>Programación orientada a objetos</li><li>Constructor y destructor en C++</li></ol>|<ul><li>[Práctica](practicas/7_CargaElectrica)</li><li>[Presentación](practicas/7_CargaElectrica/CargaElectricaPresentacion.pdf)</li><li></li></ul>|05/11/2021|
 |6.Punto Isoeléctrico|<ol><li>Programación orientada a objetos</li><li>Vectores en C++</li></ol>|<ul><li></li><li></li><li></li></ul>||
-|7.Almacén|<ol><li>Apuntadores en C++</li></ol>|<ul><li></li><li></li></ul>||
-|8.Tienda|<ol><li>Estructuras de datos en C++</li></ol>|<ul><li></li><li></li></ul>||
-|9.GaussJordanP|<ol><li>Lenguaje Python</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li></li></ul>||
-|10.Comparando|<ol><li>Lenguaje C++</li><li>Lenguaje Python</li></ol>|<ul><li></li></ul>||
+|8.GaussJordanP|<ol><li>Lenguaje Python</li><li>Instrucciones de control (condicionales)</li><li>Operadores aritméticos</li><li>Operadores lógicos</li><li>Estructuras de datos</li></ol>|<ul><li>[Práctica](practicas/8_GaussJordanP)</li></ul>|19/11/2021|
 |11.Auto|<ol><li>Programación orientada a objetos en Python</li></ol>|<ul><li></li><li></li></ul>||
 
 
-#### Última modificación: 29 de octubre de 2021
-
+#### Última modificación: 12 de noviembre de 2021
