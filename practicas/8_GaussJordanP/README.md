@@ -1,4 +1,4 @@
-# Práctica 11: GaussJordanP
+# Práctica 8: GaussJordanP
 
 ## Fecha: 19/11/2021
 
