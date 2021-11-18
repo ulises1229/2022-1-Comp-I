@@ -1,9 +1,9 @@
 # Calificaciones: 9ca31b
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|NA|NA|18-11-2021 03:58:34|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|19-11-2021 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|f4d563296823decf540f689a18eac4134634ecf3|22-09-2021 22:59:43|22-09-2021 23:24:44|nan|24-09-2021 21:00:00|10.0|
 |Arreglos|✔️|✔️|❌|❌|❌|❌|489e29fcd838b6be5b28f377926ad93b7419a879|22-09-2021 19:37:05|22-09-2021 20:27:44|Revisa la operación suma-Revisa la operación multiplicación-El segundo arreglo debe de poder ser de números flotantes-No debe permitir ingresar un operador incorrecto|24-09-2021 21:00:00|6.0|
+|GaussJordanP|✔️|✔️|❌|❌|✔️|❌|b43eeffb9bca993665e66bda4ada1268037ea40b|18-11-2021 09:31:35|18-11-2021 10:05:42|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No intercambia las filas cuando un pivote es cero|19-11-2021 21:00:00|7.333333333333333|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|dac118258d641e9ba90d204973c369648346fba0|18-09-2021 13:00:04|18-09-2021 13:18:49|nan|17-09-2021 21:00:00|10.0|
 |Calculadora|✔️|✔️|❌|❌|❌|✔️|286ed3b092b79a330749acc82f0abf75bd8a3fb8|17-09-2021 10:26:25|17-09-2021 10:27:47|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división|17-09-2021 21:00:00|7.333333333333333|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|8a14832ef09f3a137f1979b6031cb32953069727|13-10-2021 01:26:12|13-10-2021 02:46:43|nan|15-10-2021 21:00:00|10.0|
@@ -13,4 +13,4 @@
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|❌|e8fa51f84ee184ce92a99dd1e25841258b2c662a|06-11-2021 22:26:57|07-11-2021 02:30:27|No calcula correctamente la carga de la molécula|08-11-2021 21:00:00|10.0|
 |GaussJordan|✔️|✔️|❌|❌|✔️|❌|c12d249c461ab6a792dcdbdfda634a1f43727186|05-10-2021 20:52:50|05-10-2021 21:19:19|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No intercambia las filas cuando un pivote es cero|01-10-2021 21:00:00|5.833333333333333|
 
-Última actualización: 18-11-2021 03:58
+Última actualización: 18-11-2021 10:06
