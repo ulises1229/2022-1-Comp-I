@@ -1,7 +1,7 @@
 # Calificaciones: fbfd46
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|NA|NA|17-11-2021 21:47:23|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|19-11-2021 21:00:00|5.0|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|NA|NA|18-11-2021 03:54:27|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|19-11-2021 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|d74642dbf21b841d4df69c870d6020c818a738fe|22-09-2021 21:33:00|22-09-2021 21:44:29|nan|24-09-2021 21:00:00|10.0|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|320cf341c4c339d5b84df3e6911bd14d6534f61d|17-09-2021 20:49:17|17-09-2021 21:28:46|nan|17-09-2021 21:00:00|10.0|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|✔️|af46a803e9a7785228b8b78e826b979c550a7d50|17-09-2021 18:02:58|17-09-2021 19:14:36|nan|17-09-2021 21:00:00|10.0|
@@ -10,4 +10,4 @@
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|❌|e24f9668c120cc605cad63331f5f6975725068c4|07-11-2021 18:27:43|07-11-2021 20:43:39|No calcula correctamente la carga de la molécula|08-11-2021 21:00:00|10.0|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|ccb7611c3eb52e4c575e917a568345081b31a173|03-10-2021 15:13:00|03-10-2021 15:30:24|nan|01-10-2021 21:00:00|9.5|
 
-Última actualización: 17-11-2021 21:47
+Última actualización: 18-11-2021 03:54
