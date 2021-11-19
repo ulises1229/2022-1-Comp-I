@@ -1,7 +1,7 @@
 # Calificaciones: 6e7c0b
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|NA|NA|19-11-2021 04:24:45|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|19-11-2021 21:00:00|5.0|
+|GaussJordanP|❌|❌|❌|❌|❌|❌|NA|NA|19-11-2021 10:31:54|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|19-11-2021 21:00:00|5.0|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|9c4274ec533aa3465376e53c844789828650d68d|29-09-2021 11:19:55|01-10-2021 14:59:22|nan|01-10-2021 21:00:00|10.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|0f5d4f2a85dc6541b191ce1d9ccb93f3aaf3474b|24-09-2021 13:40:20|24-09-2021 14:32:42|nan|24-09-2021 21:00:00|10.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|15cd993f0ebea633dcb13a8a009b860654df9fdb|24-09-2021 12:28:16|24-09-2021 13:39:57|Tu código no compila|24-09-2021 21:00:00|5.0|
@@ -25,4 +25,4 @@
 |CargaElectrica|✔️|❌|❌|❌|❌|❌|8919f065e7123876ddea3465b15917198ad08c82|07-11-2021 15:54:54|07-11-2021 20:45:08|Tu código no compila|08-11-2021 21:00:00|5.0|
 |CargaElectrica|✔️|❌|❌|❌|❌|❌|5239ab59ad5482d3d38cece099ca52dc11356e48|03-11-2021 11:26:49|03-11-2021 23:22:19|Tu código no compila|08-11-2021 21:00:00|5.0|
 
-Última actualización: 19-11-2021 04:24
+Última actualización: 19-11-2021 10:31
