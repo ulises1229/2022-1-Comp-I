@@ -1,7 +1,6 @@
 # Calificaciones: 6e7c0b
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|NA|NA|19-11-2021 16:38:59|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|19-11-2021 21:00:00|5.0|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|9c4274ec533aa3465376e53c844789828650d68d|29-09-2021 11:19:55|01-10-2021 14:59:22|nan|01-10-2021 21:00:00|10.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|0f5d4f2a85dc6541b191ce1d9ccb93f3aaf3474b|24-09-2021 13:40:20|24-09-2021 14:32:42|nan|24-09-2021 21:00:00|10.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|15cd993f0ebea633dcb13a8a009b860654df9fdb|24-09-2021 12:28:16|24-09-2021 13:39:57|Tu código no compila|24-09-2021 21:00:00|5.0|
@@ -11,6 +10,7 @@
 |Arreglos|✔️|❌|❌|❌|❌|❌|94e6af903b4817e2d084f4dd20edc5bec219b483|22-09-2021 23:28:41|23-09-2021 01:35:29|Tu código no compila|24-09-2021 21:00:00|5.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|b1e428e32e975c13ec3618916accc96b6dfc9020|21-09-2021 19:58:32|21-09-2021 20:24:49|Tu código no compila|24-09-2021 21:00:00|5.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|9764619187dbf6901be7594d2b3b25d333c456a5|21-09-2021 19:20:00|21-09-2021 19:30:11|Tu código no compila|24-09-2021 21:00:00|5.0|
+|GaussJordanP|✔️|✔️|❌|❌|❌|❌|b3b3db99c05302c8992648373a8baaacb3b7a34f|19-11-2021 21:24:39|19-11-2021 22:48:26|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|19-11-2021 21:00:00|6.0|
 |CargaElectrica|✔️|✔️|✔️|✔️|✔️|❌|3c603d84cd982b016b03207b30fd381cfe45a63c|15-11-2021 23:15:41|16-11-2021 02:57:48|No calcula correctamente la carga de la molécula|08-11-2021 21:00:00|6.5|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|5c3e203eb5fd6f113fb83346f166aa647530b503|15-10-2021 20:26:10|15-10-2021 21:27:00|nan|15-10-2021 21:00:00|10.0|
 |Puntos|✔️|✔️|✔️|❌|✔️|❌|8b28c3bc39a6841440158bef637ec85a4c15f3c5|15-10-2021 15:03:49|15-10-2021 15:21:14|No aplica correctamente la rotación-No hace correctamente la rotación con ángulos negativos|15-10-2021 21:00:00|8.666666666666668|
@@ -25,4 +25,4 @@
 |CargaElectrica|✔️|❌|❌|❌|❌|❌|8919f065e7123876ddea3465b15917198ad08c82|07-11-2021 15:54:54|07-11-2021 20:45:08|Tu código no compila|08-11-2021 21:00:00|5.0|
 |CargaElectrica|✔️|❌|❌|❌|❌|❌|5239ab59ad5482d3d38cece099ca52dc11356e48|03-11-2021 11:26:49|03-11-2021 23:22:19|Tu código no compila|08-11-2021 21:00:00|5.0|
 
-Última actualización: 19-11-2021 16:38
+Última actualización: 19-11-2021 22:49
