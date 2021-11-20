@@ -5,6 +5,7 @@
 |Arreglos|✔️|❌|❌|❌|❌|❌|5e72ca11a6163cf036e30155913d63e82e39dd86|25-09-2021 20:53:36|25-09-2021 21:55:09|Tu código no compila|24-09-2021 21:00:00|5.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|5e9d16d605c21abf5566078770235a48b5de325c|24-09-2021 20:59:11|24-09-2021 21:52:12|Tu código no compila|24-09-2021 21:00:00|5.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|3367ebfb71ab908bf6c3286d60a7384ae98d28dc|24-09-2021 13:30:06|24-09-2021 13:40:04|Tu código no compila|24-09-2021 21:00:00|5.0|
+|GaussJordanP|✔️|✔️|❌|❌|❌|❌|bb05fd5c471f69497e0f3393990660d22ed9cf16|20-11-2021 12:11:42|20-11-2021 17:19:36|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|19-11-2021 21:00:00|6.0|
 |GaussJordanP|✔️|✔️|❌|❌|❌|❌|7a949c0919882661a854a4210e4c62f5322cb9a7|19-11-2021 20:52:33|19-11-2021 22:57:15|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|19-11-2021 21:00:00|6.0|
 |Calculadora|✔️|✔️|❌|❌|❌|✔️|835813ee45e9106239ec92c5efeccaeb7022e66b|18-09-2021 12:17:15|18-09-2021 13:19:32|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división|17-09-2021 21:00:00|7.333333333333333|
 |Calculadora|✔️|✔️|❌|❌|❌|✔️|6b8e8142ebefe49047c4534ef650a22cc4039a36|17-09-2021 23:24:25|18-09-2021 01:16:47|Revisa la operación suma-No implementaste operaciones con números flotantes-Revisa la operación división|17-09-2021 21:00:00|7.333333333333333|
@@ -16,4 +17,4 @@
 |Puntos|✔️|❌|❌|❌|❌|❌|a4e9bde4e53fdb2c1bbae23596216b71e52c4156|14-10-2021 23:16:56|14-10-2021 23:35:55|Tu código no compila|15-10-2021 21:00:00|5.0|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|e77f1c8187b8b9c7233d9b866a5a7344330b7ef3|01-10-2021 19:57:08|01-10-2021 20:12:12|nan|01-10-2021 21:00:00|10.0|
 
-Última actualización: 19-11-2021 22:58
+Última actualización: 20-11-2021 17:20
