@@ -1,11 +1,12 @@
 # Calificaciones: dc2250
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|GaussJordanP|❌|❌|❌|❌|❌|❌|NA|NA|21-11-2021 17:44:21|No se encontró el archivo en PracticasComputacionI/GaussJordanP/GaussJordanP.py|19-11-2021 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|c9b283d40f435f805ef97940f125e8000cf3a3e2|28-09-2021 21:12:07|28-09-2021 22:04:11|nan|24-09-2021 21:00:00|8.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|413ac53747cc1b188a12d5e513d6734badf2b86d|23-09-2021 23:06:57|23-09-2021 23:27:44|nan|24-09-2021 21:00:00|10.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|adc837d67c797b75868b7bd18d843f7a0d3ce176|22-09-2021 18:55:23|22-09-2021 19:34:03|Tu código no compila|24-09-2021 21:00:00|5.0|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|❌|ba6b1b5497ace7dc1a7164e64fb9eed163cf2cd3|22-09-2021 18:27:52|22-09-2021 19:33:21|No sale con código diferente de cero con división entre cero|17-09-2021 21:00:00|8.0|
+|GaussJordanP|✔️|✔️|❌|❌|❌|❌|33153c2dfe7e56a76c0df3de6ee418e6f5bee6ff|21-11-2021 22:00:49|21-11-2021 23:52:33|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|19-11-2021 21:00:00|5.0|
+|CargaElectrica|✔️|✔️|✔️|✔️|✔️|✔️|33153c2dfe7e56a76c0df3de6ee418e6f5bee6ff|21-11-2021 22:00:49|21-11-2021 23:51:16|¡Excelente trabajo!|08-11-2021 21:00:00|5.0|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|❌|76ad488f4e3d1a5a08306c9adb281b9199341cb4|21-09-2021 22:41:02|21-09-2021 23:20:28|No sale con código diferente de cero con división entre cero|17-09-2021 21:00:00|8.0|
 |Calculadora|✔️|✔️|✔️|✔️|✔️|❌|e1e020f83517186b70cf01f0e772f50ecdfce1a5|17-09-2021 13:02:37|17-09-2021 13:11:45|No sale con código diferente de cero con división entre cero|17-09-2021 21:00:00|10.0|
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|cf43ccccc7796b6dff9efa8ad58168f3e248ae86|15-10-2021 22:14:20|15-10-2021 23:50:08|nan|15-10-2021 21:00:00|10.0|
@@ -18,4 +19,4 @@
 |Puntos|✔️|✔️|✔️|✔️|✔️|✔️|89ecc666c59977adf89fdd28abe382748fc767c9|05-11-2021 22:43:33|06-11-2021 02:07:43|¡Excelente trabajo!|15-10-2021 21:00:00|5.0|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|86ae772e23f78a331bcbde8f9dd7582e8d5d89ae|01-10-2021 14:53:49|01-10-2021 14:57:46|nan|01-10-2021 21:00:00|10.0|
 
-Última actualización: 21-11-2021 17:44
+Última actualización: 21-11-2021 23:53
