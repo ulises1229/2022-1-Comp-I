@@ -1,6 +1,7 @@
 # Calificaciones: e32bf5
 |Project|Exists|Compiles|Problem1|Problem2|Problem3|Extra|CommitHash|CommitDate|CheckDate|Comments|DueDate|Grade|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
+|GaussJordanP|✔️|✔️|❌|❌|❌|❌|90f99de14d8df8a9022552b348b59678d4511e95|25-11-2021 20:52:57|06-12-2021 13:35:28|No aplica correctamente el método de Gauss-Jordan-No aplica correctamente el método de Gauss-Jordan-No avisa al usuario que el sistema no tiene solución-No intercambia las filas cuando un pivote es cero|19-11-2021 21:00:00|5.0|
 |Arreglos|✔️|✔️|✔️|✔️|✔️|✔️|7c4a9deb27c13a8d1dd9eb36d295d8be8782b639|25-09-2021 23:35:58|25-09-2021 23:38:29|nan|24-09-2021 21:00:00|9.5|
 |Arreglos|✔️|❌|❌|❌|❌|❌|5e72ca11a6163cf036e30155913d63e82e39dd86|25-09-2021 20:53:36|25-09-2021 21:55:09|Tu código no compila|24-09-2021 21:00:00|5.0|
 |Arreglos|✔️|❌|❌|❌|❌|❌|5e9d16d605c21abf5566078770235a48b5de325c|24-09-2021 20:59:11|24-09-2021 21:52:12|Tu código no compila|24-09-2021 21:00:00|5.0|
@@ -17,4 +18,4 @@
 |Puntos|✔️|❌|❌|❌|❌|❌|a4e9bde4e53fdb2c1bbae23596216b71e52c4156|14-10-2021 23:16:56|14-10-2021 23:35:55|Tu código no compila|15-10-2021 21:00:00|5.0|
 |GaussJordan|✔️|✔️|✔️|✔️|✔️|✔️|e77f1c8187b8b9c7233d9b866a5a7344330b7ef3|01-10-2021 19:57:08|01-10-2021 20:12:12|nan|01-10-2021 21:00:00|10.0|
 
-Última actualización: 20-11-2021 17:20
+Última actualización: 06-12-2021 13:36
